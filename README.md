@@ -1,4 +1,4 @@
-<link rel="shortcut icon" href="FraPet/portfolio-new/assets/coding.png">
+<link rel="shortcut icon" href="https://github.com/FraPet/portfolio-new/blob/main/assets/coding.png?raw=true">
 
 # Francesco Petriglia's Data Science Portfolio
 👋
