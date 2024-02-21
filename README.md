@@ -15,18 +15,18 @@ Holding a Master's in Psychological Sciences and a Bachelor's in Speech Therapy,
 In this research, the focus is on utilizing Pepper, a humanoid robot, for assisting individuals with autism. This involves programming Pepper to interact and communicate effectively, aiming to enhance social interaction skills and support therapeutic sessions. The work is part of a broader data science approach, integrating robotics with therapeutic needs to improve outcomes for autistic individuals.
 
 ## Talkidz - Childhood Language Assessment
-  <p align = "center">
-    <img src="https://github.com/FraPet/portfolio-new/blob/main/assets/Immagine1.jpg?raw=true" width="600">
-    </p>
+<p align = "center">
+<img src="https://github.com/FraPet/portfolio-new/blob/main/assets/Immagine1.jpg?raw=true" width="600">
+</p>
     
 The Talkidz project represents an innovative initiative in the field of language development and disorders in children, combining the robust methodologies of natural language processing (NLP) and machine learning (ML) to facilitate a comprehensive and automated assessment of children's expressive language capabilities. Initially crafted using Visual Basic, the software has since migrated to Python, a strategic move designed to leverage the vast ecosystem of libraries and advanced ML techniques available within this programming language. This transition not only enhances the tool's analytical capabilities but also broadens its accessibility and potential applications by transitioning towards an online platform.
 Talkidz meticulously analyzes children's speech, focusing on critical linguistic indices such as phonetic-phonological accuracy, morphosyntactic complexity, and lexical diversity. By employing advanced NLP techniques, Talkidz is capable of quantitatively assessing these indices, providing invaluable insights into a child's language development or identifying potential expressive language disorders. A unique feature of Talkidz is its ability to analyze speech transcriptions in the International Phonetic Alphabet (IPA), offering a detailed and precise evaluation of phonetic-phonological aspects of language. This analysis is particularly enhanced by tools that convert Italian text into IPA, such as the one available <a href="https://www.francescopetriglia.it/analisi_ling/conv_fonemi.html">here</a>. This tool is essential for researchers, clinicians, and educators, facilitating a deeper understanding of language disorders and enabling early, accurate intervention strategies.
 
 
-  ## Talkidz and sentiment analysis
-  <p align="center">
-    <img src="https://github.com/FraPet/portfolio-new/blob/main/assets/Immagine2.jpg?raw=true" width="600"/>
-  </p>
+## Talkidz and sentiment analysis
+<p align="center">
+<img src="https://github.com/FraPet/portfolio-new/blob/main/assets/Immagine2.jpg?raw=true" width="600"/>
+</p>
 This study focuses on the narrative skills of children with Autism Spectrum Disorder (ASD), highlighting the use of Natural Language Processing (NLP) and machine learning for sentiment analysis (SA) to evaluate emotional connotations in their language. The study utilizes the "Talkidz" software to classify speech into positive, negative, and neutral categories. Results show significant differences in the use of emotional polarity between children with ASD and their typically developing peers, indicating SA's potential as a valuable tool for assessing narrative abilities in ASD. This approach represents a significant step towards developing objective computational measures of linguistic characteristics in ASD and other developmental disorders.
 
 # Skills
