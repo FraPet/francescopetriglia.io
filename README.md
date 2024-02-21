@@ -1,7 +1,5 @@
 # Francesco Petriglia's Data Science Portfolio
 👋
-Welcome to my GitHub portfolio! I'm a data scientist with expertise in computational linguistics, natural language processing (NLP), machine learning (ML), healthcare, and language disorders. I combine my background in psychological sciences and speech therapy with data science to create impactful solutions.
-
 ## About Me
 Holding a Master's in Psychological Sciences and a Bachelor's in Speech Therapy, my career has been enriched by a strong foundation in neuropsychological rehabilitation, speech therapy, and healthcare applications of data science. Recently, I've joined a research team at the University of Udine, concentrating on the multi-level evaluation of narrative speech and applying NLP for transcript analysis. Complementing my academic and professional pursuits, I've engaged in programming courses to deepen my technical skills, particularly in Python, R, and data analysis, ensuring a robust toolkit for tackling complex data-driven challenges in healthcare. 🔬 Currently involved in a research project @UniUD focusing on multilevel narrative speech evaluation & applying NLP for transcript analysis.
 
