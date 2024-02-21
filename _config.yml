@@ -1,4 +1,5 @@
 title: Francesco Petriglia
-logo: /
+#logo: /
+#description: 
 show_downloads: true
-theme: ""
+theme: jeckil-theme-minimal
