@@ -1,3 +1,5 @@
+<link rel="shortcut icon" href="FraPet/portfolio-new/assets/coding.png">
+
 # Francesco Petriglia's Data Science Portfolio
 👋
 ## About Me 🔬
