@@ -10,13 +10,13 @@ Holding a Master's in Psychological Sciences and a Bachelor's in Speech Therapy,
 # Research Projects
 ## Sugar, Salt & Pepper-Humanoid Robotics for Autism
 <p align="center">
-<img src="https://github.com/FraPet/francescopetriglia/assets/38542557/c258f254-968e-4583-b867-92555f25637b" width="600"/>
+<img src="https://github.com/FraPet/portfolio-new/blob/main/assets/DSCF7648.JPG?raw=true" width="600"/>
 </p>
 In this research, the focus is on utilizing Pepper, a humanoid robot, for assisting individuals with autism. This involves programming Pepper to interact and communicate effectively, aiming to enhance social interaction skills and support therapeutic sessions. The work is part of a broader data science approach, integrating robotics with therapeutic needs to improve outcomes for autistic individuals.
 
 ## Talkidz - Childhood Language Assessment
   <p align = "center">
-    <img src="https://private-user-images.githubusercontent.com/38542557/306633111-ca0feb61-98b3-4876-94dd-1a3ddbec0877.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg1MjEzOTUsIm5iZiI6MTcwODUyMTA5NSwicGF0aCI6Ii8zODU0MjU1Ny8zMDY2MzMxMTEtY2EwZmViNjEtOThiMy00ODc2LTk0ZGQtMWEzZGRiZWMwODc3LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjIxVDEzMTEzNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI0NDI1ZjVhMjliYmYxMTEwMDE5ZDZjZmVhYzBkNGU4ODUyNzg4MTdjN2NkOGVjYmM3YjhmNGQ5NmY3NDQ3MjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.JbflyZ9Vil3cBiEXuTzMPcXaZk6G7WZTTmN3FnMOn7Q" width="600">
+    <img src="https://github.com/FraPet/portfolio-new/blob/main/assets/Immagine1.jpg?raw=true" width="600">
     </p>
     
 The Talkidz project represents an innovative initiative in the field of language development and disorders in children, combining the robust methodologies of natural language processing (NLP) and machine learning (ML) to facilitate a comprehensive and automated assessment of children's expressive language capabilities. Initially crafted using Visual Basic, the software has since migrated to Python, a strategic move designed to leverage the vast ecosystem of libraries and advanced ML techniques available within this programming language. This transition not only enhances the tool's analytical capabilities but also broadens its accessibility and potential applications by transitioning towards an online platform.
@@ -25,7 +25,7 @@ Talkidz meticulously analyzes children's speech, focusing on critical linguistic
 
   ## Talkidz and sentiment analysis
   <p align="center">
-    <img src="https://private-user-images.githubusercontent.com/38542557/306632665-9e58111b-af57-4d2f-bc9e-2b45839672f3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg1MjEzMDAsIm5iZiI6MTcwODUyMTAwMCwicGF0aCI6Ii8zODU0MjU1Ny8zMDY2MzI2NjUtOWU1ODExMWItYWY1Ny00ZDJmLWJjOWUtMmI0NTgzOTY3MmYzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjIxVDEzMTAwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFjNmRiOWQ3ZjM3ZTZkNGZhMDJiNTcyOGU5OGJlZmM0NzllOWFmYjFhYjZmODRhNGNmMWYyYmM3ZjdmOWI1ZWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.4qp4YzRxNGOGQ22MCF0Qwi41pCTcbACNYxvHG64GjR0" width="600"/>
+    <img src="https://github.com/FraPet/portfolio-new/blob/main/assets/Immagine2.jpg?raw=true" width="600"/>
   </p>
 This study focuses on the narrative skills of children with Autism Spectrum Disorder (ASD), highlighting the use of Natural Language Processing (NLP) and machine learning for sentiment analysis (SA) to evaluate emotional connotations in their language. The study utilizes the "Talkidz" software to classify speech into positive, negative, and neutral categories. Results show significant differences in the use of emotional polarity between children with ASD and their typically developing peers, indicating SA's potential as a valuable tool for assessing narrative abilities in ASD. This approach represents a significant step towards developing objective computational measures of linguistic characteristics in ASD and other developmental disorders.
 
