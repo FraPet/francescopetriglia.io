@@ -12,7 +12,7 @@ Holding a Master's in Psychological Sciences and a Bachelor's in Speech Therapy,
 # Research Projects
 ## Sugar, Salt & Pepper-Humanoid Robotics for Autism
 <p align="center">
-<img src="https://github.com/FraPet/portfolio-new/blob/main/assets/DSCF7648.JPG?raw=true" width="600"/>
+<img src="https://github.com/FraPet/portfolio-new/blob/main/assets/DSCF7622.JPG?raw=true" width="600"/>
 </p>
 In this research, the focus is on utilizing Pepper, a humanoid robot, for assisting individuals with autism. This involves programming Pepper to interact and communicate effectively, aiming to enhance social interaction skills and support therapeutic sessions. The work is part of a broader data science approach, integrating robotics with therapeutic needs to improve outcomes for autistic individuals.
 
