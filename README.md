@@ -1,6 +1,6 @@
 <link rel="shortcut icon" href="https://github.com/FraPet/portfolio-new/blob/main/assets/coding.png?raw=true">
 
-# Francesco Petriglia's Data Science Portfolio
+# Portfolio
 
 ## About Me 🔬
 👋 Master's in Psychological Sciences and a Bachelor's in Speech Therapy. My career has been enriched by a neuropsychological rehabilitation, speech therapy, and healthcare applications of data science. Complementing my academic and professional pursuits, I've engaged in programming courses to deepen my technical skills, particularly in Python, R, and data analysis, ensuring a robust toolkit for tackling complex data-driven challenges in healthcare. Currently involved in a research project @UniUD focusing on multilevel narrative speech evaluation & applying NLP for transcript analysis.
@@ -36,7 +36,7 @@ This study focuses on the narrative skills of children with Autism Spectrum Diso
   <tr>
     <th><b>Languages</th>
     <th>Technologies</th>
-    <th>Tools</th></b></th>
+    <th>Tools</b></th>
   </tr>
   <tr>
     <td>
