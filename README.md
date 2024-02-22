@@ -8,7 +8,7 @@
 ## Social
 <a href="https://www.linkedin.com/in/francesco-petriglia" rel="nofollow"><img src="https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 [![@f_petriglia](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/f_petriglia)
-
+<a href="https://www.researchgate.net/profile/Francesco-Petriglia-2">![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)</a>
 # Research Projects
 ## Sugar, Salt & Pepper-Humanoid Robotics for Autism
 <p align="center">
@@ -32,20 +32,49 @@ Talkidz meticulously analyzes children's speech, focusing on critical linguistic
 This study focuses on the narrative skills of children with Autism Spectrum Disorder (ASD), highlighting the use of Natural Language Processing (NLP) and machine learning for sentiment analysis (SA) to evaluate emotional connotations in their language. The study utilizes the "Talkidz" software to classify speech into positive, negative, and neutral categories. Results show significant differences in the use of emotional polarity between children with ASD and their typically developing peers, indicating SA's potential as a valuable tool for assessing narrative abilities in ASD. This approach represents a significant step towards developing objective computational measures of linguistic characteristics in ASD and other developmental disorders.
 
 # Skills
-
-* **Languages**: Python, R, Matlab, Visual Basic
-* **Technologies**: NLP, ML, Data Analysis, Statistics
-* **Tools**: PsychoPy, SPSS, GitHub, Jupyter Notebooks
+<table>
+  <tr>
+    <th><b>Languages</th>
+    <th>Technologies</th>
+    <th>Tools</th></b></th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Python" />
+      <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+      <img src="https://img.shields.io/badge/Visual%20Basic-512BD4.svg?style=for-the-badge&logo=Visual-Basic&logoColor=white" alt="Visual Basic" />
+      <img src="https://img.shields.io/badge/MATLAB-R2023a-BLUE.svg?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/NLP-c90000?style=for-the-badge" alt="NLP" />
+      <img src="https://img.shields.io/badge/ML-e6c700?style=for-the-badge" alt="ML" />
+      <img src="https://img.shields.io/badge/Data%20Analysis-0a84ff?style=for-the-badge" alt="Data Analysis" />
+      <img src="https://img.shields.io/badge/Statistics-027015?style=for-the-badge" alt="Statistics" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/PsychoPy-59207C?style=for-the-badge&logo=psychopy&logoColor=white" alt="PsychoPy" />
+      <img src="https://img.shields.io/badge/SPSS-0a84ff?style=for-the-badge&logo=ibm&logoColor=white" alt="SPSS" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Jupyter%20Notebooks-0a84ff?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebooks" />
+      <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Jupyter Notebooks" />
+      <img src="https://img.shields.io/badge/JASP-027015?style=for-the-badge" alt="JASP" />
+    </td>
+  </tr>
+</table>
 
 # Publications & Theses
-* **Ontologies and Open Data for Enriching Personalized Social Moments in Human Robot Interaction**. Presented at the 30th ACM Conference on User Modeling Adaptation and Personalization, July 2022. This publication discusses the utilization of ontologies and open data to enhance the interactivity and personalized experiences in human-robot interaction.
-* **Sugar, Salt & Pepper-Humanoid Robotics for Autism**. A conference paper for the 2021 Joint ACM Conference on Intelligent User Interfaces Workshops. It details the application of humanoid robotics, specifically the Pepper robot, in supporting individuals with autism, focusing on improving social interactions and therapeutic outcomes.
-* **Sentiment Analysis and Natural Language Processing in the Diagnosis and Evaluation of Language Disorders in Children with Autism Spectrum Disorder: A Pilot Study**. Co-supervised thesis for the Speech Therapy Degree at the University of Turin. It examines the potential of sentiment analysis and NLP in diagnosing and evaluating language disorders in children with autism.
-* **Talkidz – Software for Infant Language Evaluation. Morphosyntactic Data of a Normative Sample**. Co-supervised thesis for the Speech Therapy Degree at the University of Turin. This work contributes to the development of the Talkidz software, focusing on the morphosyntactic analysis of child language.
-* **Talkidz – Software for Infant Language Evaluation. Phonetic-Phonological Data of a Normative Sample**. Tutoring for the Speech Therapy Degree at the University of Turin. This thesis contributes to the phonetic-phonological components of the Talkidz software.
-* **The Role of Praxic Abilities in Semantic-Lexical Processing: An Experimental Study with High and Low Body-Object Interaction Words**. Tutoring for the Speech Therapy Degree at the University of Turin. It explores the relationship between praxic abilities and lexical processing.
-* **Development of Quantitative Techniques and Signal and Image Analysis in Speech Therapy**. Tutoring for the Master's Degree in Biomedical Engineering at the Polytechnic University of Turin. This thesis focuses on the application of quantitative techniques and analysis in speech therapy.
-* **Implementation of a Software for Language Analysis in Python**. Tutoring for the Computer Science Degree at the University of Turin. It details the development of a language analysis tool using Python, enhancing the capabilities for assessing and understanding language disorders.
+
+| Title | Conference / Collaboration | Explanation |
+|--------------|----------------------------------------|----------------|
+| **Ontologies and Open Data for Enriching Personalized Social Moments in Human Robot Interaction** | _30th ACM Conference on User Modeling Adaptation and Personalization, July 2022_ | Utilization of ontologies and open data to enhance interactivity and personalized experiences in human-robot interaction |
+| **Sugar, Salt & Pepper-Humanoid Robotics for Autism** | _2021 Joint ACM Conference on Intelligent User Interfaces Workshops_ | Application of humanoid robotics, specifically the Pepper robot, in supporting individuals with autism, focusing on improving social interactions and therapeutic outcomes |
+| **Sentiment Analysis and Natural Language Processing in the Diagnosis and Evaluation of Language Disorders in Children with Autism Spectrum Disorder: A Pilot Study** | _University of Turin, Speech Language Pathology BA_ | Examines the potential of sentiment analysis and NLP in diagnosing and evaluating language disorders in children with autism |
+| **Talkidz – Software for Infant Language Evaluation. Morphosyntactic Data of a Normative Sample** | _University of Turin, Speech Language Pathology BA_ | Contributes to the development of Talkidz software, focusing on morphosyntactic analysis of child language |
+| **Talkidz – Software for Infant Language Evaluation. Phonetic-Phonological Data of a Normative Sample** | _University of Turin, Speech Language Pathology BA_ | Contributes to the phonetic-phonological components of the Talkidz software |
+| **The Role of Praxic Abilities in Semantic-Lexical Processing: An Experimental Study with High and Low Body-Object Interaction Words** | _University of Turin, Speech Language Pathology BA_ | Explores the relationship between praxic abilities and lexical processing |
+| **Development of Quantitative Techniques and Signal and Image Analysis in Speech Therapy** | _Polytechnic University of Turin, Biomedical Engineering MA_ | Focuses on the application of quantitative techniques and analysis in speech therapy and video-analysis for feature extraction |
+| **Implementation of a Software for Language Analysis in Python** | _University of Turin, Computer Science BA_ | Details the development of a language analysis tool using Python |
 
 
 
