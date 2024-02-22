@@ -63,7 +63,7 @@ This study focuses on the narrative skills of children with Autism Spectrum Diso
   </tr>
 </table>
 
-# Publications & Theses
+# Publications & Theses Tutoring
 
 | Title | Conference / Collaboration | Explanation |
 |--------------|----------------------------------------|----------------|
