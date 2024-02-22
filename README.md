@@ -34,9 +34,9 @@ This study focuses on the narrative skills of children with Autism Spectrum Diso
 # Skills
 <table>
   <tr>
-    <th><b>Languages</th>
+    <th>Languages</th>
     <th>Technologies</th>
-    <th>Tools</b></th>
+    <th>Tools</th>
   </tr>
   <tr>
     <td>
